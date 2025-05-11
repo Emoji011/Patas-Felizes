@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "presets": {
     "District": {
@@ -150,7 +159,7 @@
                 "show_contact": true,
                 "phone": "1.877.555.9300",
                 "contact_text": "Contact Us",
-                "contact_link": "shopify:\/\/pages\/contact-us",
+                "contact_link": "shopify://pages/contact-us",
                 "address": "",
                 "show_social": true
               }
@@ -175,9 +184,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -192,9 +201,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -209,9 +218,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -474,7 +483,7 @@
           "settings": {
             "text": "Use this text to provide customer with details about the collection",
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "collection": "",
             "product_count_range": 6
           }
@@ -484,7 +493,7 @@
           "settings": {
             "center_heading": false,
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "collection": "",
             "product_count_range": 4
           }
@@ -525,7 +534,7 @@
           "settings": {
             "title": "",
             "button_label": "Browse the look",
-            "button_link": "shopify:\/\/collections\/all"
+            "button_link": "shopify://collections/all"
           }
         },
         "1482145227743": {
@@ -548,7 +557,7 @@
             "1482145286795": {
               "type": "video",
               "settings": {
-                "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "full_width": false
               }
             },
@@ -564,7 +573,7 @@
               "type": "richtext",
               "settings": {
                 "title": "",
-                "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+                "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
               }
             }
           },
@@ -768,7 +777,7 @@
                 "show_contact": true,
                 "phone": "1.877.555.9300",
                 "contact_text": "Contact Us",
-                "contact_link": "shopify:\/\/pages\/contact-us",
+                "contact_link": "shopify://pages/contact-us",
                 "address": "",
                 "show_social": true
               }
@@ -813,11 +822,11 @@
             "1483214154738": {
               "type": "video",
               "settings": {
-                "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+                "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "",
                 "button_link": "",
                 "vertical_alignment": "align-center",
@@ -834,7 +843,7 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
                 "button_link": "",
                 "vertical_alignment": "align-center",
@@ -851,7 +860,7 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
                 "button_link": "",
                 "vertical_alignment": "align-center",
@@ -1051,7 +1060,7 @@
           "settings": {
             "text": "Use this text to provide customer with details about the collection",
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "collection": "",
             "product_count_range": 4
           }
@@ -1061,7 +1070,7 @@
           "settings": {
             "center_heading": false,
             "button_label": "View More",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "collection": "",
             "product_count_range": 12
           }
@@ -1344,7 +1353,7 @@
                 "show_contact": true,
                 "phone": "1.877.555.9300",
                 "contact_text": "Contact Us",
-                "contact_link": "shopify:\/\/pages\/contact-us",
+                "contact_link": "shopify://pages/contact-us",
                 "address": "",
                 "show_social": true
               }
@@ -1369,9 +1378,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -1386,9 +1395,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -1403,9 +1412,9 @@
                 "image": "",
                 "link": "",
                 "title": "Slide",
-                "text": "<p>Add brief details about this slide.<\/p>",
+                "text": "<p>Add brief details about this slide.</p>",
                 "button_label": "See more",
-                "button_link": "shopify:\/\/collections\/all",
+                "button_link": "shopify://collections/all",
                 "vertical_alignment": "align-center",
                 "horizontal_alignment": "justify-center",
                 "color_text": "#000000",
@@ -1651,7 +1660,7 @@
           "settings": {
             "center_heading": true,
             "button_label": "View more",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "shopify://collections/all",
             "collection": "",
             "product_count_range": 8
           }
@@ -1763,7 +1772,7 @@
     "typography_headings_capitalize": false,
     "typography_headings_bold": false,
     "typography_navigation_family": "Google_Roboto:400,400italic,700,700italic_sans",
-    "favicon": "shopify:\/\/shop_images\/logo3.png",
+    "favicon": "shopify://shop_images/logo3.png",
     "newsletter_discount_code": "SIGNUPSALE",
     "newsletter_redirect_link": "",
     "collections_product_ratio": "auto",
@@ -1773,7 +1782,7 @@
     "variant_rollover": true,
     "ajax_cart_enable": false,
     "social_twitter_link": "",
-    "social_facebook_link": "https:\/\/www.facebook.com\/catnipbeasts",
+    "social_facebook_link": "https://www.facebook.com/catnipbeasts",
     "social_instagram_link": "",
     "social_pinterest_link": "",
     "social_tumblr_link": "",
@@ -1795,7 +1804,7 @@
     "supported_currencies": "USD CAD GBP EUR JPY",
     "default_currency": "USD",
     "checkout_header_image": "",
-    "checkout_logo_image": "shopify:\/\/shop_images\/catnipbeastsLOGO4_a769ddd4-bdc1-4e3b-a17c-cb830b5e4564.png",
+    "checkout_logo_image": "shopify://shop_images/catnipbeastsLOGO4_a769ddd4-bdc1-4e3b-a17c-cb830b5e4564.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
     "checkout_body_background_image": "",
@@ -1859,9 +1868,9 @@
         "type": "header",
         "settings": {
           "header_layout": "vertical",
-          "logo": "shopify:\/\/shop_images\/catnipbeastsLOGO4_a769ddd4-bdc1-4e3b-a17c-cb830b5e4564.png",
-          "logo_max_width": 400,
-          "main_linklist": "for-your-pet",
+          "logo": "shopify://shop_images/LOGO_PAP.png",
+          "logo_max_width": 280,
+          "main_linklist": "",
           "scroll_lock": "util",
           "minimal_padding": "minimal",
           "top_bar_full_width": true,
@@ -1910,16 +1919,15 @@
       },
       "1481011869014": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "1481011869014-0": {
             "type": "image",
             "settings": {
               "link": "",
               "title": "BEST  DEAL  IN  FITNESS  &  YOGA",
-              "text": "<p><strong><a href=\"\/collections\" title=\"All Collections\">SHOP FOR&nbsp; HIM<\/a><\/strong>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><a href=\"\/collections\" title=\"All Collections\">&nbsp;SHOP&nbsp; FOR HER<\/a><\/strong><\/p>",
+              "text": "<p><strong><a href=\"/collections\" title=\"All Collections\">SHOP FOR&nbsp; HIM</a></strong>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong><a href=\"/collections\" title=\"All Collections\">&nbsp;SHOP&nbsp; FOR HER</a></strong></p>",
               "button_label": "Shop for",
-              "button_link": "shopify:\/\/collections",
+              "button_link": "shopify://collections",
               "vertical_alignment": "align-center",
               "horizontal_alignment": "justify-center",
               "color_text": "#f5ecec",
@@ -1931,11 +1939,11 @@
           "1483214154738": {
             "type": "video",
             "settings": {
-              "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+              "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
               "mobile_autoplay": false,
               "link": "",
               "title": "Slide",
-              "text": "<p>Add brief details about this slide.<\/p>",
+              "text": "<p>Add brief details about this slide.</p>",
               "button_label": "",
               "button_link": "",
               "vertical_alignment": "align-center",
@@ -1951,7 +1959,7 @@
             "settings": {
               "link": "",
               "title": "Slide",
-              "text": "<p>Add brief details about this slide.<\/p>",
+              "text": "<p>Add brief details about this slide.</p>",
               "button_label": "See more",
               "button_link": "",
               "vertical_alignment": "align-center",
@@ -1968,6 +1976,7 @@
           "1483214154738",
           "1481011869014-1"
         ],
+        "disabled": true,
         "settings": {
           "full_width": true,
           "autoplay": false,
@@ -2149,7 +2158,7 @@
           "title": "Popular",
           "text": "",
           "button_label": "View More",
-          "button_link": "shopify:\/\/collections\/popular",
+          "button_link": "shopify://collections/popular",
           "collection": "popular",
           "product_count_range": 4
         }
@@ -2161,7 +2170,7 @@
           "title": "New",
           "center_heading": true,
           "button_label": "View More",
-          "button_link": "shopify:\/\/collections",
+          "button_link": "shopify://collections",
           "collection": "newest-products",
           "product_count_range": 4
         }
@@ -2281,7 +2290,6 @@
       },
       "1525151600330": {
         "type": "slideshow",
-        "disabled": true,
         "blocks": {
           "1525151600330-0": {
             "type": "image",
@@ -2303,6 +2311,7 @@
         "block_order": [
           "1525151600330-0"
         ],
+        "disabled": true,
         "settings": {
           "full_width": true,
           "autoplay": false,
@@ -2318,10 +2327,10 @@
           "full_width": true,
           "alignment": "bottom",
           "title": "Clothing for cat lovers",
-          "text": "<p><\/p>\n<p>Show everyone your appreciation for your pet!<\/p>",
+          "text": "<p></p>\n<p>Show everyone your appreciation for your pet!</p>",
           "hero_size": "medium",
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections\/clothing",
+          "button_link": "shopify://collections/clothing",
           "color_overlay": "#000000",
           "color_overlay_text": "#ecf2ea",
           "color_overlay_alpha_range": 17
@@ -2334,10 +2343,10 @@
           "full_width": true,
           "alignment": "center",
           "title": "ANTI-THEFT BACKPACK",
-          "text": "<p>Protect Your Belongings And Charge You Cellphone at The Same Time.<\/p>",
+          "text": "<p>Protect Your Belongings And Charge You Cellphone at The Same Time.</p>",
           "hero_size": "small",
           "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections\/backpack",
+          "button_link": "shopify://collections/backpack",
           "color_overlay": "#000000",
           "color_overlay_text": "#ffffff",
           "color_overlay_alpha_range": 22
